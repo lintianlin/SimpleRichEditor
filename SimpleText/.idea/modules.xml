@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SimpleText.iml" filepath="$PROJECT_DIR$/SimpleText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplericheditor/simplericheditor.iml" filepath="$PROJECT_DIR$/simplericheditor/simplericheditor.iml" />
+    </modules>
+  </component>
+</project>
